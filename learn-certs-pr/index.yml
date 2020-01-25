@@ -91,7 +91,7 @@ resourcesSection:
   items:
     - title: Találja meg Microsoft Tanuló Partnerét
       summary: Globális partnerhálózatunk rugalmas, megoldás-alapú, testreszabott képzést biztosít a Microsoft technológiáiról.
-      url: https://www.microsoft.com/en-us/learning/partners.aspx
+      url: https://www.microsoft.com/learning/partners.aspx
     - title: Támogatás a bizonyítványokhoz és a vizsgákhoz
       summary: Segítséget kaphat a támogatási fórumokon keresztül. A fórum moderátor egy munkanapon, hétfõtõl péntekig válaszol.
       url: /learn/certifications/help
@@ -105,7 +105,7 @@ statisticsSection:
   video:
     pdfDownloadUrl: https://download.microsoft.com/download/C/A/A/CAA1BDA9-D61F-47D2-BC0A-C3A820B21DAF/Pearson_VUE_Value_of_IT_Certification_Survey_Summary_Report_2017.pdf
     iframeTitle: Microsoft tanúsítványok
-    iframeSrc: https://www.microsoft.com/en-us/videoplayer/embed/RE3HGnx?pid=RE3HGnx-ax-0-id-oneplayer&jsapi=true&postJsllMsg=true&autoplay=false&mute=false&loop=false&market=en-us&playFullScreen=false
+    iframeSrc: https://www.microsoft.com/videoplayer/embed/RE3HGnx?pid=RE3HGnx-ax-0-id-oneplayer&jsapi=true&postJsllMsg=true&autoplay=false&mute=false&loop=false&market=en-us&playFullScreen=false
     title: A Microsoft tanúsítások elõnyei
     summary: A tanúsítványok megszerzése után a Microsoft tanusítvánnyt szerzõ technológusok 23% -a számolt be arról, hogy akár 20% -os fizetésnövekedést kapott. Mi több, a tanúsított alkalmazottakat gyakran bízják meg a társaik felügyeletével, és elõsegítik õket az elõléptetés érdekében. 2017-ben a Pearson VUE Value of Certification fehér könyv.
   items:
